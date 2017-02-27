@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BD2KPubMed.jnlp">
+  <information>
+    <title>BD2KPubMed</title>
+    <vendor>Tevfik</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="BD2KPubMed.jar" size="32925" download="eager" />
+    <jar href="lib/jheatchart-0.6.jar" size="6363" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="BD2KPubMed" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="genepubmed.GenePubMed"  name="BD2KPubMed" />
+  <update check="always"/>
+</jnlp>
