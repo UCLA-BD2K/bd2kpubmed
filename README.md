@@ -19,7 +19,7 @@ ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
    3. Choose the format “CSV” format
    4. Click “Create File”. Download this file into the same folder that contains the extracted gene2pubmed file.
 
-4. Run the BD2KPubMed application by double clicking on the bd2kpubmed_01.jar file.
+4. Run the BD2KPubMed application by executing the BD2KPubMed.jar file in the *dist* folder.
 If you get an error, it is likely that you do not have the Java Runtime Environment installed on your system. You can install it on https://java.com/en/download/.
 
 ![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image00.png)
