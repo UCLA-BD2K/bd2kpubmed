@@ -39,7 +39,7 @@ If you get an error, it is likely that you do not have the Java Runtime Environm
 
 ![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image04.png)
 
-8. Click Run. The tool will provide 3 different outputs:
+8. Click Run. The tool will provide up to 3 different outputs in the same location as the application:
    1. The popularity heat map will show the most popular genes in darker shades. The vertical axis represents the individual genes while the horizontal axis denotes the year.
    2. The trends text file in the same folder as the jar file. This contains the heatmap data in textual format.
    3. The gene_frequencies text file in the same folder as the jar file. This file contains the sum of number of publications mentioning the particular gene, sorted by metric.
