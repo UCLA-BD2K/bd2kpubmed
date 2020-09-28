@@ -44,4 +44,4 @@ If you get an error, it is likely that you do not have the Java Runtime Environm
    2. The trends text file in the same folder as the jar file. This contains the heatmap data in textual format.
    3. The gene_frequencies text file in the same folder as the jar file. This file contains the sum of number of publications mentioning the particular gene, sorted by metric.
 
-For questions or regarding technical difficulties, you may contact the developer at bd2kpubmed ( at ) heartproteome.org.
+For questions, concerns, and technical support, please open an issue on this GitHub repository.
