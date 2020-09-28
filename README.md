@@ -13,9 +13,9 @@ ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
 ![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image03.jpg)
 
 3. Make a PubMed search in the topic you are interested in. Below we give an example for the query “heart failure”.
-   1. Click the “Send to:” link
-   2. Choose “File” destination
-   3. Choose “CSV” format
+   1. Click the “Save” button
+   2. Choose your selection. Note that "all results" has a maximum of 10,000 citations. For more, download citations through the [Entrez PubMed API](https://www.ncbi.nlm.nih.gov/books/NBK25500/).
+   3. Choose the format “CSV” format
    4. Click “Create File”. Download this file into the same folder that contains the extracted gene2pubmed file.
 
 4. Run the BD2KPubMed application by double clicking on the bd2kpubmed_01.jar file.
