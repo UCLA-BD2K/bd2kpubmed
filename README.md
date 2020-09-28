@@ -22,7 +22,7 @@ ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
 4. Run the BD2KPubMed application by executing the BD2KPubMed.jar file in the *dist* folder.
 If you get an error, it is likely that you do not have the Java Runtime Environment installed on your system. You can install it on https://java.com/en/download/.
 
-![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image00.png)
+![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image00.jpg)
 
 5. Fill out the parameters for the analysis.
    1. Click the first Choose Directory button and select the .csv file downloaded from PubMed for the first field.
