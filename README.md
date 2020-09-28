@@ -13,7 +13,7 @@ ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
 
 ![Screenshot](https://raw.githubusercontent.com/UCLA-BD2K/bd2kpubmed/master/images/image03.jpg)
 
-3. Make a PubMed search in the topic you are interested in. Below we give an example for the query “heart failure”.
+3. Make a PubMed search in the topic you are interested in. Above we give an example for the query “heart failure”.
    1. Click the “Save” button
    2. Choose your selection. Note that "all results" has a maximum of 10,000 citations. For more, download citations through the [Entrez PubMed API](https://www.ncbi.nlm.nih.gov/books/NBK25500/).
    3. Choose the format “CSV” format
